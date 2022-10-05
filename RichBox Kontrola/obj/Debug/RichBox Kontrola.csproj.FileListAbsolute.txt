@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Luka Radetic\RichBox Kontrola\bin\Debug\RichBox Kontrola.exe.config
+C:\Users\ucenik\Documents\Luka Radetic\RichBox Kontrola\bin\Debug\RichBox Kontrola.exe
+C:\Users\ucenik\Documents\Luka Radetic\RichBox Kontrola\bin\Debug\RichBox Kontrola.pdb
+C:\Users\ucenik\Documents\Luka Radetic\RichBox Kontrola\obj\Debug\RichBox Kontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Luka Radetic\RichBox Kontrola\obj\Debug\RichBox Kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Luka Radetic\RichBox Kontrola\obj\Debug\RichBox_Kontrola.Form1.resources
+C:\Users\ucenik\Documents\Luka Radetic\RichBox Kontrola\obj\Debug\RichBox_Kontrola.Properties.Resources.resources
+C:\Users\ucenik\Documents\Luka Radetic\RichBox Kontrola\obj\Debug\RichBox Kontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Luka Radetic\RichBox Kontrola\obj\Debug\RichBox Kontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Luka Radetic\RichBox Kontrola\obj\Debug\RichBox Kontrola.exe
+C:\Users\ucenik\Documents\Luka Radetic\RichBox Kontrola\obj\Debug\RichBox Kontrola.pdb
